@@ -1,5 +1,5 @@
 #                              Hello, everyone! Welcome to my Github. 👋
-![texto](https://img.shields.io/static/v1?label=none&message=PYTHON&color=green)
+![texto](https://img.shields.io/static/v1?label=LinkedIn&message=(https://www.linkedin.com/in/engalexlourenco/)&color=green)
 # Languages
 ## ![texto](https://img.shields.io/static/v1?label=language&message=PYTHON&color=green&style=flat-square "language")           ![texto](https://img.shields.io/static/v1?label=language&message=SQL&color=yellow&style=flat-square "language")
 # Clouds 
@@ -8,7 +8,7 @@
 ## Google Cloud Plataform (GCP) 
 ### ![texto](https://img.shields.io/static/v1?label=GCP&message=GOOGLE_STORAGE&color=black&style=flat-square "Cloud")  ![texto](https://img.shields.io/static/v1?label=GCP&message=BIGQUERY&color=black&style=flat-square "Cloud")
 ## Amazon Web Services
-### Sagemaker
+### ![texto](https://img.shields.io/static/v1?label=AWS&message=Sagemaker&color=black&style=flat-square "Cloud")
 <!--
 **alexlourencomattos/alexlourencomattos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
