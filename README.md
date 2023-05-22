@@ -5,7 +5,7 @@
 ## Microsoft Azure
 ###  ![texto](https://img.shields.io/static/v1?label=MSAzure&message=KUBERNETES&color=black&style=flat-square "Cloud")  ![texto](https://img.shields.io/static/v1?label=MSAzure&message=VIRTUALMACHINE&color=black&style=flat-square "Cloud") ![texto](https://img.shields.io/static/v1?label=MSAzure&message=POSTGRES&color=black&style=flat-square "Cloud")
 ## Google Cloud Plataform (GCP) 
-### Google Storage/ Bigquery
+### ![texto](https://img.shields.io/static/v1?label=MSAzure&message=GOOGLESTORAGE&color=black&style=flat-square "Cloud")  ![texto](https://img.shields.io/static/v1?label=MSAzure&message=BIGQUERY&color=black&style=flat-square "Cloud")
 ## Amazon Web Services
 ### Sagemaker
 <!--
