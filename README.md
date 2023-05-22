@@ -1,6 +1,6 @@
 #                                               Hello! Welcome to my Github. 👋
 ## Languages
-## ![texto](https://img.shields.io/v1?message=python&color=green&style=flat-square "linguagem")
+## ![texto](https://img.shields.io/static/v1?message=python&color=green&style=flat-square)
 <!--
 **alexlourencomattos/alexlourencomattos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
