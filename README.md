@@ -1,5 +1,5 @@
 #                              Hello, everyone! Welcome to my Github. 👋
-![texto](https://img.shields.io/static/v1?label=LinkedIn&message=https://www.linkedin.com/in/engalexlourenco/&color=green)
+![texto](https://img.shields.io/static/v1?label=LinkedIn&message=engalexlourenco&color=blue)
 # Languages
 ## ![texto](https://img.shields.io/static/v1?label=language&message=PYTHON&color=green "language")           ![texto](https://img.shields.io/static/v1?label=language&message=SQL&color=yellow"language")
 # Clouds 
