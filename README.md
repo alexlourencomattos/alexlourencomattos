@@ -1,7 +1,7 @@
 #                              Hello, everyone! Welcome to my Github. 👋
-![texto](https://img.shields.io/static/v1?label=LinkedIn&message=(https://www.linkedin.com/in/engalexlourenco/)&color=green)
+![texto](https://img.shields.io/static/v1?label=LinkedIn&message=https://www.linkedin.com/in/engalexlourenco/&color=green)
 # Languages
-## ![texto](https://img.shields.io/static/v1?label=language&message=PYTHON&color=green&style=flat-square "language")           ![texto](https://img.shields.io/static/v1?label=language&message=SQL&color=yellow&style=flat-square "language")
+## ![texto](https://img.shields.io/static/v1?label=language&message=PYTHON&color=green "language")           ![texto](https://img.shields.io/static/v1?label=language&message=SQL&color=yellow"language")
 # Clouds 
 ## Microsoft Azure
 ###  ![texto](https://img.shields.io/static/v1?label=MSAzure&message=KUBERNETES&color=black&style=flat-square "Cloud")  ![texto](https://img.shields.io/static/v1?label=MSAzure&message=VIRTUAL_MACHINE&color=black&style=flat-square "Cloud") ![texto](https://img.shields.io/static/v1?label=MSAzure&message=POSTGRES&color=black&style=flat-square "Cloud")
