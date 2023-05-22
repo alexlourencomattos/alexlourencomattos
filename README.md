@@ -8,7 +8,7 @@
 ## Google Cloud Plataform (GCP) 
 ### ![texto](https://img.shields.io/static/v1?label=GCP&message=GOOGLE_STORAGE&color=black&style=flat-square "Cloud")  ![texto](https://img.shields.io/static/v1?label=GCP&message=BIGQUERY&color=black&style=flat-square "Cloud")
 ## Amazon Web Services
-### ![texto](https://img.shields.io/static/v1?label=AWS&message=Sagemaker&color=black&style=flat-square "Cloud")
+### ![texto](https://img.shields.io/static/v1?label=AWS&message=SAGEMAKER&color=black "Cloud")
 <!--
 **alexlourencomattos/alexlourencomattos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
