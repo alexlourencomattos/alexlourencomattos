@@ -1,10 +1,13 @@
 #                              Hello! Welcome to my Github. 👋
 # Languages
 ## ![texto](https://img.shields.io/static/v1?label=language&message=PYTHON&color=green&style=flat-square "language")           ![texto](https://img.shields.io/static/v1?label=language&message=SQL&color=yellow&style=flat-square "language")
-# Cloud 
-## Microsoft Azure 
+# Clouds 
+## Microsoft Azure
+### Kubernetes/ Virtual Machine/ Postgres
 ## Google Cloud Plataform (GCP) 
+### Google Storage/ Bigquery
 ## Amazon Web Services
+### Sagemaker
 <!--
 **alexlourencomattos/alexlourencomattos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
