@@ -13,7 +13,7 @@
 ###  ![texto](https://img.shields.io/static/v1?label=MSAzure&message=Kubernetes&color=black "Cloud")  ![texto](https://img.shields.io/static/v1?label=MSAzure&message=Virtual_Machine&color=black "Cloud") ![texto](https://img.shields.io/static/v1?label=MSAzure&message=Postgres&color=black "Cloud")
 
 ## Google Cloud Plataform (GCP) 
-### ![texto](https://img.shields.io/static/v1?label=GCP&message=GOOGLE_STORAGE&color=black "Cloud")  ![texto](https://img.shields.io/static/v1?label=GCP&message=BIGQUERY&color=black "Cloud")
+### ![texto](https://img.shields.io/static/v1?label=GCP&message=Google_Storage&color=black "Cloud")  ![texto](https://img.shields.io/static/v1?label=GCP&message=Bigquery&color=black "Cloud")
 ## Amazon Web Services
 ### ![texto](https://img.shields.io/static/v1?label=AWS&message=Sagemaker&color=black "Cloud")
 
