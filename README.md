@@ -1,4 +1,5 @@
 #                              Hello, everyone! Welcome to my Github. 👋
+![texto](https://img.shields.io/static/v1?label=language&message=PYTHON&color=green)
 # Languages
 ## ![texto](https://img.shields.io/static/v1?label=language&message=PYTHON&color=green&style=flat-square "language")           ![texto](https://img.shields.io/static/v1?label=language&message=SQL&color=yellow&style=flat-square "language")
 # Clouds 
