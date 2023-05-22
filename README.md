@@ -2,7 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexlourencomattos&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexlourencomattos&hide_progress=true&theme=dark)
 
 # Social Medias
 ![texto](https://img.shields.io/static/v1?label=LinkedIn&message=engalexlourenco&color=blue)
