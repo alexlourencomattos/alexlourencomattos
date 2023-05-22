@@ -3,7 +3,7 @@
 ## ![texto](https://img.shields.io/static/v1?label=language&message=PYTHON&color=green&style=flat-square "language")           ![texto](https://img.shields.io/static/v1?label=language&message=SQL&color=yellow&style=flat-square "language")
 # Clouds 
 ## Microsoft Azure
-###  ![texto](https://img.shields.io/static/v1?label=MSAzure&message=KUBERNETES&color=black&style=flat-square "Cloud")  ![texto](https://img.shields.io/static/v1?label=MSAzure&message=VIRTUALMACHINE&color=black&style=flat-square "Cloud") ![texto](https://img.shields.io/static/v1?label=MSAzure&message=POSTGRES&color=black&style=flat-square "Cloud")
+###  ![texto](https://img.shields.io/static/v1?label=MSAzure&message=KUBERNETES&color=black&style=flat-square "Cloud")  ![texto](https://img.shields.io/static/v1?label=MSAzure&message=VIRTUAL_MACHINE&color=black&style=flat-square "Cloud") ![texto](https://img.shields.io/static/v1?label=MSAzure&message=POSTGRES&color=black&style=flat-square "Cloud")
 ## Google Cloud Plataform (GCP) 
 ### ![texto](https://img.shields.io/static/v1?label=MSAzure&message=GOOGLE_STORAGE&color=black&style=flat-square "Cloud")  ![texto](https://img.shields.io/static/v1?label=MSAzure&message=BIG_QUERY&color=black&style=flat-square "Cloud")
 ## Amazon Web Services
