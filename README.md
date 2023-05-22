@@ -5,7 +5,7 @@
 # Social Medias
 ![texto](https://img.shields.io/static/v1?label=LinkedIn&message=engalexlourenco&color=blue)
 # Languages
-## ![texto](https://img.shields.io/static/v1?label=language&message=PYTHON&color=blue "language")           ![texto](https://img.shields.io/static/v1?label=language&message=SQL&color=yellow"language")
+## ![texto](https://img.shields.io/static/v1?label=language&message=Python&color=blue "language")           ![texto](https://img.shields.io/static/v1?label=language&message=SQL&color=yellow"language")            ![texto](https://img.shields.io/static/v1?label=language&message=R&color=grey "language")
 # Clouds 
 ## Microsoft Azure
 ###  ![texto](https://img.shields.io/static/v1?label=MSAzure&message=KUBERNETES&color=black&style=flat-square "Cloud")  ![texto](https://img.shields.io/static/v1?label=MSAzure&message=VIRTUAL_MACHINE&color=black&style=flat-square "Cloud") ![texto](https://img.shields.io/static/v1?label=MSAzure&message=POSTGRES&color=black&style=flat-square "Cloud")
