@@ -5,6 +5,10 @@
 # Social Medias
 ![texto](https://img.shields.io/static/v1?label=LinkedIn&message=engalexlourenco&color=blue)
 
+# Machine Learning & Deep Learning
+
+![texto](https://img.shields.io/static/v1?label=Pandas&color=blue)
+
 # Languages
 ## ![texto](https://img.shields.io/static/v1?label=language&message=Python&color=blue "language")           ![texto](https://img.shields.io/static/v1?label=language&message=SQL&color=yellow"language")            ![texto](https://img.shields.io/static/v1?label=language&message=R&color=grey "language")
 
