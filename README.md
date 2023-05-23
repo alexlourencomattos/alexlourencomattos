@@ -7,7 +7,7 @@
 
 # Machine Learning & Deep Learning
 
-![texto](https://img.shields.io/static/v1?label=&message=Pandas&color=blue) ![texto](https://img.shields.io/static/v1?label=&message=TensorFlow&color=blue)
+![texto](https://img.shields.io/static/v1?label=&message=Pandas&color=blue) ![texto](https://img.shields.io/static/v1?label=&message=TensorFlow&color=blue) ![texto](https://img.shields.io/static/v1?label=&message=Sckitlearn&color=blue) ![texto](https://img.shields.io/static/v1?label=&message=NeuralNetwoks&color=blue)
 
 # Languages
 ## ![texto](https://img.shields.io/static/v1?label=language&message=Python&color=blue "language")           ![texto](https://img.shields.io/static/v1?label=language&message=SQL&color=yellow"language")            ![texto](https://img.shields.io/static/v1?label=language&message=R&color=grey "language")
