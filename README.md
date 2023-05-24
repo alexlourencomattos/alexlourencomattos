@@ -1,6 +1,6 @@
 #                              Hello, everyone! Welcome to my Github. 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexlourencomattos&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexlourencomattos&show_icons=true&theme=radical)
 
 # Social Medias
 ![texto](https://img.shields.io/static/v1?label=LinkedIn&message=engalexlourenco&color=blue)
