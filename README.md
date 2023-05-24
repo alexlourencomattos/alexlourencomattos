@@ -21,5 +21,4 @@
 ## Amazon Web Services
 ### ![texto](https://img.shields.io/static/v1?label=AWS&message=Sagemaker&color=black "Cloud")
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexlourencomattos&hide_progress=true&theme=dark)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexlourencomattos&layout=compact&theme=dark)
