@@ -1,5 +1,8 @@
 #                              Hello, everyone! Welcome to my Github. 👋
 
+## This Github is dedicated to energy market analysis and is focused at Brazil and South America energy markets. 
+## Enjoy it!
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexlourencomattos&show_icons=true&theme=radical)
 
 # Social Medias
