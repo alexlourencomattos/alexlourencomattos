@@ -7,6 +7,11 @@
 
 # Social Medias
 ![texto](https://img.shields.io/static/v1?label=LinkedIn&message=engalexlourenco&color=blue)
+## link : https://www.linkedin.com/in/engalexlourenco/
+# Energy Market
+## Newave - Medium term price prediction
+## Decomp - short term price prediction
+## Dessem - Hourly price prediction
 
 # Machine Learning & Deep Learning
 
