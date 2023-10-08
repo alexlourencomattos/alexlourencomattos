@@ -1,6 +1,9 @@
 #                              Hello, everyone! Welcome to my Github. 👋
 
-## This Github is dedicated to energy market analysis and is focused at Brazil and South America energy markets. ![image](https://github.com/alexlourencomattos/alexlourencomattos/assets/47500048/3d67530c-7b58-4db2-9517-1e35b10e05c7)
+## This Github is dedicated to energy market analysis and is focused at Brazil and South America energy markets. 
+
+![image](https://github.com/alexlourencomattos/alexlourencomattos/assets/47500048/3d67530c-7b58-4db2-9517-1e35b10e05c7)
+
  
 ## Enjoy it! 
 
