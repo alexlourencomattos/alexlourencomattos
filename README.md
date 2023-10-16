@@ -2,12 +2,16 @@
 
 ## This Github is dedicated to energy market analysis and is focused at Brazil and South America energy markets. 
 
+# About Me
+
+##  Electrical Engineer graduated from UFF, master's degree in Nuclear Science and Technology from IEN, and currently a Ph.D. student in Electrical Engineering at the University of São Paulo. 
+ Currently, I am conducting energy studies using Newave, Decomp, and Dessem.
+
 ![image](https://github.com/alexlourencomattos/alexlourencomattos/assets/47500048/3d67530c-7b58-4db2-9517-1e35b10e05c7)
 
 ![image](https://github.com/alexlourencomattos/alexlourencomattos/assets/47500048/94209118-34e5-408c-81dc-4009f85a04df)
 
 
- 
 ## Enjoy it! 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexlourencomattos&show_icons=true&theme=radical)
