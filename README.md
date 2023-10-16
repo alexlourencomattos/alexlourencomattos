@@ -4,8 +4,7 @@
 
 # About Me
 
-##  Electrical Engineer graduated from UFF, master's degree in Nuclear Science and Technology from IEN, and currently a Ph.D. student in Electrical Engineering at the University of São Paulo. 
- Currently, I am conducting energy studies using Newave, Decomp, and Dessem.
+##  Electrical Engineer graduated from UFF, master's degree in Nuclear Science and Technology from IEN, and currently a Ph.D. student in Electrical Engineering at the University of São Paulo. Currently, I am conducting energy studies using Newave, Decomp, and Dessem.
 
 ![image](https://github.com/alexlourencomattos/alexlourencomattos/assets/47500048/3d67530c-7b58-4db2-9517-1e35b10e05c7)
 
