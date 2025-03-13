@@ -8,8 +8,13 @@
 
 # Brazil Energy Market
 ## The price energy at Brazil is given by the models Newave, Decomp and Dessem.
+### As inúmeras variaveis que compoem os modelos também envolvem modelos preditivos ou estatisticos.
+### Além disso, existe um grande volume de dados a serem tratados e analisados diariamente. Em virtude disso, a programação e a engenharia de dados são tão importantes:
+### Traduzindo os dados em informação para tomada de decisão.
 
-![image](https://github.com/alexlourencomattos/alexlourencomattos/assets/47500048/94209118-34e5-408c-81dc-4009f85a04df)
+![image](https://github.com/user-attachments/assets/90cdfaa5-616d-44e6-99f3-37a7d64ff034)
+
+
 
 
 ## Enjoy it! 
