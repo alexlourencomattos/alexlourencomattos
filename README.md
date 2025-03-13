@@ -1,4 +1,4 @@
-#                              Hello, everyone! Welcome to my Github. 👋
+#                              Hello, everyone! Welcome to my Github.
 
 ## This Github is dedicated to energy market analysis and is focused at Brazil and South America energy markets. 
 
