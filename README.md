@@ -1,6 +1,20 @@
-#                              Hello, everyone! Welcome to my Github.
+#                             Welcome to my Github!
 
-## This Github is dedicated to energy market analysis and is focused at Brazil and South America energy markets. 
+## This Github is dedicated to many energy market analysis and is focused at Brazil and South America energy markets.
+## Este Github contém parte do meu portfólio de programação e as pricipais ferramentas para trabalhar com cloud.
+
+# 🔎 Áreas de Interesse
+## ✔ Modelagem e otimização de sistemas energéticos
+## ✔ Previsão de preços e inteligência de mercado
+## ✔ Análise de dados e automação de processos
+## ✔ Computação em nuvem e bancos de dados
+
+# 🛠️ Tecnologias e Ferramentas
+## 📌 Linguagens: Python, VBA, SQL
+## 📌 Cloud Computing: AWS (Lambda, EC2, S3), Microsoft Azure
+## 📌 Banco de Dados: SQL (PostgreSQL, MySQL), NoSQL
+## 📌 Ferramentas: Pandas, NumPy, Power BI, Kubernetes
+## 📌 Modelos Energéticos: NEWAVE, DECOMP
 
 # About Me
 
