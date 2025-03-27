@@ -5,11 +5,11 @@
 ##  Electrical Engineer graduated from UFF, master's degree in Nuclear Science and Technology from IEN, and currently a Ph.D. student in Electrical Engineering at the University of São Paulo. Currently, I am conducting energy studies using Newave, Decomp, and Dessem.
 
 
-# 🛠️ Tecnologias e Ferramentas
-## 📌 Linguagens: Python, VBA, SQL
-## 📌 Cloud Computing: AWS (Lambda, EC2, S3), Microsoft Azure (Kubernetes)
-## 📌 Banco de Dados: SQL (PostgreSQL, MySQL)
-## 📌 Ferramentas: Pandas, NumPy, Power BI
+#  🛠️ Tecnologias e Ferramentas
+###  📌 Linguagens: Python, VBA, SQL
+###  📌 Cloud Computing: AWS (Lambda, EC2, S3), Microsoft Azure (Kubernetes)
+###  📌 Banco de Dados: SQL (PostgreSQL, MySQL)
+###  📌 Ferramentas: Pandas, NumPy, Power BI, pytorch, Programação Orientada a Objeto
 
 
 
