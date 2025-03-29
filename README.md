@@ -1,5 +1,5 @@
 #                             Welcome to my Github!
-
+![texto](https://img.shields.io/static/v1?label=LinkedIn&message=engalexlourenco&color=blue)
 ## About Me
 
 
