@@ -1,8 +1,14 @@
 #                             Welcome to my Github!
 
-# About Me
+## About Me
+
 
 ##  Electrical Engineer graduated from UFF, master's degree in Nuclear Science and Technology from IEN, and currently a Ph.D. student in Electrical Engineering at the University of São Paulo. Currently, I am conducting energy studies using Newave, Decomp, and Dessem.
+
+- Education: Bsc. & Msc. & PHD student | Electrical Engineering @ Universidade Federal Fluminense 📚 & Instituto de Engeharia Nuclear & Universidade de São Paulo
+- Working: Python 💻 & Julia & R | AWS | Azure
+- Learning: Data Engineering  | Optimization 🔢 | Deep Reinforcement Learning 🧠
+- Hobbies: Soccer | Botafogo F.R.
 
 
 #  🛠️ Tecnologias e Ferramentas
