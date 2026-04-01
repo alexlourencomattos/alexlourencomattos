@@ -25,15 +25,12 @@
 </p>
 ---
 
-### ⏱️ Commits por horário
+### ⏱️ Commits por horário 🔥 Streak (sequência de commits)
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alexlourencomattos&theme=tokyonight" />
 </p>
 
----
-
-### 🔥 Streak (sequência de commits)
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=alexlourencomattos&theme=tokyonight" />
