@@ -9,6 +9,21 @@
 - Learning: Data Engineering  | Optimization 🔢 | Deep Reinforcement Learning 🧠
 - Hobbies: Soccer | Botafogo F.R.
 
+---
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### ⏱️ Commits por horário
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SEU_USERNAME&theme=tokyonight" />
+</p>
 
 ---
 
