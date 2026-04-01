@@ -50,8 +50,6 @@
 ![image](https://github.com/user-attachments/assets/90cdfaa5-616d-44e6-99f3-37a7d64ff034)
 
 
-## Enjoy it! 
-
 # Social Medias
 ![texto](https://img.shields.io/static/v1?label=LinkedIn&message=engalexlourenco&color=blue)
 ## link : https://www.linkedin.com/in/engalexlourenco/
