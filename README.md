@@ -5,7 +5,7 @@
 ##  Electrical Engineer graduated from UFF, master's degree in Nuclear Science and Technology from IEN, and currently a Ph.D. candidate in Electrical Engineering at the University of São Paulo.
 
 - Education: Bsc. & Msc. & PHD Candidate | Electrical Engineering @ Universidade Federal Fluminense 📚 & Instituto de Engeharia Nuclear & Universidade de São Paulo
-- Working: Python 💻 & Julia & R | AWS | Azure
+- Working: 💻 Python & R & SQL & Julia | AWS | Azure | Docker
 -  Data Engineering  | Optimization 🔢 | Machine Learning 🧠
 
 ---
