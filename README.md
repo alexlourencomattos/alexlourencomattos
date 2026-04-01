@@ -28,13 +28,8 @@
 ### ⏱️ Commits
 
 <p align="center">
+  <img src="https://streak-stats.demolab.com?user=alexlourencomattos&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alexlourencomattos&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com?user=alexlourencomattos&theme=tokyonight" />
-</p>
-
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=alexlourencomattos&theme=tokyonight" />
 </p>
 
 ---
