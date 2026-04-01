@@ -2,7 +2,7 @@
 ![texto](https://img.shields.io/static/v1?label=LinkedIn&message=engalexlourenco&color=blue)
 ## About Me
 
-##  Electrical Engineer graduated from UFF, master's degree in Nuclear Science and Technology from IEN, and currently a Ph.D. student in Electrical Engineering at the University of São Paulo. Currently, I am conducting energy studies using Newave, Decomp, and Dessem.
+##  Electrical Engineer graduated from UFF, master's degree in Nuclear Science and Technology from IEN, and currently a Ph.D. student in Electrical Engineering at the University of São Paulo.
 
 - Education: Bsc. & Msc. & PHD Candidate | Electrical Engineering @ Universidade Federal Fluminense 📚 & Instituto de Engeharia Nuclear & Universidade de São Paulo
 - Working: Python 💻 & Julia & R | AWS | Azure
