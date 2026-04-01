@@ -10,13 +10,9 @@
 - Hobbies: Soccer | Botafogo F.R.
 
 ---
-### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexlourencomattos&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexlourencomattos&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alexlourencomattos&theme=tokyo-night" />
 </p>
-
 ---
 
 ### ⏱️ Commits por horário
