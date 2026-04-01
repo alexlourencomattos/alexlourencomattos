@@ -13,7 +13,7 @@
 ### 🧠 Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r, spark, airflow,postgres,docker,aws" />
+  <img src="https://skillicons.dev/icons?i=python,r, spark,postgres,docker,aws" />
 </p>
 
 ---
