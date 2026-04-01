@@ -18,8 +18,10 @@
 
 ---
 
+<h2 align="center">🐍 Contributions Snake</h2>
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alexlourencomattos&theme=midnight-purple" />
+  <img src="https://github.com/alexlourencomattos/alexlourencomattos/blob/output/github-contribution-grid-snake-dark.svg">
 </p>
 ---
 
